@@ -1243,3 +1243,9 @@ worldpay_us:
   acctid: MPNAB
   subid: SPREE
   merchantpin: "1234567890"
+
+# Working credentials, no need to replace
+xendit:
+  public_key: xnd_public_development_PYiBfOVy0LL8xZM/LeUfTj7Eb9D1pdR9xnTg+Rxj9GfR+bGmDQ9xgw==
+  secret_key: xnd_development_NY+CfOVy0LL8xZM/LeUfTj7Eb9D1pdR9xnTg+Rxj9GfR+bCjDQRwhA==
+  validation_token: NDgxNTlmNTdjYWRmY2YzZDlkOTZmNDQxZjAwMTUwOTI2MDQ2MTk3NQ==
